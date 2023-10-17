@@ -89,3 +89,5 @@ git push
 - [git-scm](https://git-scm.com/docs/gittutorial)
 - [.gitignore](https://git-scm.com/docs/gitignore)
 - posh-git - A Git plugin for the PowerShell prompt. `Find-Module Posh-Git | Install-Module`
+- oh-my-posh - A prompt theme engine for any shell. https://ohmyposh.dev/
+- MagicTooltips - A PowerShell module to display contextual information about the command you're currently entering. https://github.com/pschaeflein/MagicTooltips
